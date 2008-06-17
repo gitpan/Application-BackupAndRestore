@@ -1,0 +1,32 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Application-BackupAndRestore
+version:      0.02
+version_from: bin/BackupAndRestore
+installdirs:  site
+requires:
+    base:                          0
+    Benchmark:                     0
+    Carp:                          0
+    constant:                      0
+    Cwd:                           0
+    enum:                          0
+    Exporter:                      0
+    File::Basename:                0
+    Glib:                          0
+    Gnome2::GConf:                 0
+    Gtk2:                          0
+    Gtk2::GladeXML:                0
+    integer:                       0
+    overload:                      0
+    POSIX:                         0
+    strict:                        0
+    Test::More:                    0
+    Tie::DataDumper:               0
+    Unicode::MapUTF8:              0
+    Unicode::UTF8simple:           0
+    UNIVERSAL:                     0
+    warnings:                      0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.30_01

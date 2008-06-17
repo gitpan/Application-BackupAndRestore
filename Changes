@@ -1,0 +1,9 @@
+Revision history for Perl application BackupAndRestore.
+
+0.02  Di 17. Jun 16:51:58 CEST 2008
+	- added some information and reorder and clean up of folders
+	- added a test
+
+0.01  Jan CEST 2007
+	- original version; created
+
